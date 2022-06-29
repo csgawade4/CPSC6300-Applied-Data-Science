@@ -1,2 +1,1 @@
-# s21-acceleration
-line
+# Acceleration Prediction fo Cars using R
